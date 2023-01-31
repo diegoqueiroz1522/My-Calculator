@@ -13,3 +13,5 @@
 ### After all, just hit "CLR" button to clear the result.
 
 <img src="https://user-images.githubusercontent.com/57724386/215843672-bdaad9cd-6942-4c1a-b914-8a1ba29adc04.png" width="200"/>
+
+### You can operate with floats and doubles too. Some exceptions were treated.
